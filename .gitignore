@@ -1,0 +1,7 @@
+build
+build-tmp
+isodir
+.o
+.so
+.a
+.swp
